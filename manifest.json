@@ -1,0 +1,14 @@
+{
+  "name": "Simon App",
+  "short_name": "Simon",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/icon/pica.png",
+    "sizes": "225x225",
+    "type": "image/png"
+  }],
+  "description": "Play the Simon game, which is a great training for your memory",
+  "background_color": "#16161d",
+  "theme_color": "#16161d"
+}
